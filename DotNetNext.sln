@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNextAPI", "DotNetNextAPI\DotNetNextAPI.csproj", "{F45EDD97-A2E7-43D2-9951-FD768691DFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNextClient", "DotNetNextClient\DotNetNextClient.csproj", "{F8A322D5-4124-4BD1-A144-0B0087035908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45EDD97-A2E7-43D2-9951-FD768691DFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45EDD97-A2E7-43D2-9951-FD768691DFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45EDD97-A2E7-43D2-9951-FD768691DFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45EDD97-A2E7-43D2-9951-FD768691DFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A322D5-4124-4BD1-A144-0B0087035908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A322D5-4124-4BD1-A144-0B0087035908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A322D5-4124-4BD1-A144-0B0087035908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A322D5-4124-4BD1-A144-0B0087035908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C4862B-5D65-4250-957F-B80B3E344109}
+	EndGlobalSection
+EndGlobal
